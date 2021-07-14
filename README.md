@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Weikoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weikoi)](https://github.com/Weikoi/github-readme-stats)
+
+
 <!--
 **Weikoi/Weikoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
