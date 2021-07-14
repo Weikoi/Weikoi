@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Weikoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weikoi)](https://github.com/Weikoi/github-readme-stats)
+[![Weikoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weikoi&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/Weikoi/github-readme-stats)
 
 
 <!--
